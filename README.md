@@ -1,5 +1,5 @@
 # COSC490 Group Project
-Final Project for RSA Alogirthm
+Final Project for RSA Alogirthm (Members: Niles Dobbs, Mardokai Hintsa, Touri Holmes)
 
 # About the Project
 
